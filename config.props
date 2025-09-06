@@ -1,0 +1,3 @@
+GROQ_API_KEY = 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
+# Use the new recommended model as default
+GROQ_MODEL = openai/gpt-oss-20b
