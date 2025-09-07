@@ -14,8 +14,10 @@ Make sure to save/store the API Key somewhere safe, cause you won't be able to c
 It'll give you the entire env variables with value copy and paste it in your .env file.
 To know the available models and details about them checkout - model docs
 
-Generating Langsmith API keys
+**Generating Langsmith API keys**
 Sign-up for a Langsmith account - langsmith.com
+<img width="2860" height="1032" alt="image" src="https://github.com/user-attachments/assets/70ee03d3-d92d-4870-95f0-a7e4e8e8ab74" />
+
 Log in to the langsmith. alt text
 Click on Set up tracing
 Click on generate api key and copy configure environment section. Langsmith Trace Project setup
