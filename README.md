@@ -1,5 +1,5 @@
 
-Setup of VSCode, Git, Python, GitHub Copilot
+#Setup of VSCode, Git, Python, GitHub Copilot
 Go checkout this setup guide for setting VSCode, Git, Python and GitHub Copilot (installing and sign in).
 
 Generating Groq API keys
