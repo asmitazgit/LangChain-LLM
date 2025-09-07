@@ -1,4 +1,4 @@
-<img width="2878" height="1476" alt="image" src="https://github.com/user-attachments/assets/4fe17918-ead2-4f6e-8d65-266903c2387c" />GUIDELINES
+
 Setup of VSCode, Git, Python, GitHub Copilot
 Go checkout this setup guide for setting VSCode, Git, Python and GitHub Copilot (installing and sign in).
 
